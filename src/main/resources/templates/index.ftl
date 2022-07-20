@@ -3,8 +3,8 @@
 <head lang="en">
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>把美女带回家应用案例</title>
-	<meta name="description" content="把美女带回家应用案例">
+	<title>把美女帶回家應用案例</title>
+	<meta name="description" content="把美女帶回家應用案例">
 	<meta name="keywords" content="index">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta name="renderer" content="webkit">
@@ -28,7 +28,7 @@
          <!--    <div style="text-align:center;clear:both" class="date">
 			</div> -->
 			<!-- <div class="connect">
-                <p>联系作者:子彬</p>
+                <p>聯繫作者:子彬</p>
                 <p>
                     <a class="qq" target="_blank" href="http://wpa.qq.com/msgrd?Menu=no&Exe=QQ&Uin=125720240"></a>
                     <a class="twitter" href=""></a>
@@ -44,7 +44,7 @@
         <script src="../js/index.js"></script>
         <script type="text/javascript">
         	 $('.title').typeIt({
-           	  whatToType: "这里有很多美女，挑一个回家吧！",
+           	  whatToType: "這裡有很多美女，挑一個回家吧！",
               typeSpeed: 300,
               lifeLike: true,
               breakLines :true
